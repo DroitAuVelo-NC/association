@@ -1,1 +1,56 @@
-{"name":"Hugoplate","short_name":"Hugoplate","lang":"fr-fr","display":"fullscreen","orientation":"portrait","start_url":"/?utm_source=web_app_manifest","background_color":"#fff","theme_color":"#000","icons":[{"src":"/images/favicon_hu_9e8e065ac4490a4c.png","sizes":"48x48","type":"image/png"},{"src":"/images/favicon_hu_2b0085a666acb94d.png","sizes":"72x72","type":"image/png"},{"src":"/images/favicon_hu_4c2c66bbd4a4a2e5.png","sizes":"96x96","type":"image/png"},{"src":"/images/favicon_hu_6648ea62d1a00f08.png","sizes":"144x144","type":"image/png"},{"src":"/images/favicon_hu_9019fea41c460da8.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"/images/favicon_hu_5ec004be78480842.png","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "Hugoplate",
+  "short_name": "Hugoplate",
+  "lang": "fr-fr",
+  "display": "fullscreen",
+  "orientation" : "portrait",
+  "start_url": "/?utm_source=web_app_manifest",
+  "background_color": "#fff",
+  "theme_color": "#000",
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  "icons": [
+    {
+      "src": "/images/favicon_hu_9e8e065ac4490a4c.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_2b0085a666acb94d.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_4c2c66bbd4a4a2e5.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_6648ea62d1a00f08.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "/images/favicon_hu_9019fea41c460da8.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/images/favicon_hu_5ec004be78480842.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+  
+  
+}
